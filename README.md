@@ -3,7 +3,7 @@ Built Power BI dashboard visualizing $141M revenue/21K shipments. Consolidated K
 # 📊 Power BI E-Commerce Shipment & Revenue Analysis
 
 ## 🔗 Live Interactive Report
-**CLICK TO VIEW:** https://1drv.ms/u/c/ecb5b860b40a8810/IQAY6mAn8gVlRaI2JWr-lLUvAU6niRCvtpdGF6exaxaDkWE?e=u79Kx1
+**CLICK TO VIEW:** https://1drv.ms/u/c/ecb5b860b40a8810/IQAY6mAn8gVlRaI2JWr-lLUvAU6niRCvtpdGF6exaxaDkWE?e=3P3K7t
 
 ---
 
